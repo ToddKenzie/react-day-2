@@ -1,0 +1,8 @@
+.textentry {
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.textentry label {
+    color: #3700b3;
+}

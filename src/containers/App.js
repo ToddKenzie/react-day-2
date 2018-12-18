@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Headline from './Headline';
-import TextEntry from './TextEntry';
+import Headline from '../components/Headline/Headline';
+import TextEntry from '../components/TextEntry/TextEntry';
 
 class App extends Component {
   render() {
